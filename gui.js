@@ -107,4 +107,5 @@ exports.locals = {
 /***/ })
 
 },[123]);
+console.clear();
 //# sourceMappingURL=gui.js.map
